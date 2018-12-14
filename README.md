@@ -18,11 +18,14 @@ Lorem
 
 # What do you need
 * 1x PCB
-* 6x XT60 Male [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html)
-* 2X XT60 Female [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html)
+* 6x XT60 Male [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
+* 2X XT60 Female [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
 * 1x [9 Pin Header Female 90° Angled ](https://www.aliexpress.com/item/10Pieces-2P-40P-Header-Right-Angle-Female-Single-Row-Socket-Connector-2-54mm-Pitch-Wholesale/32885601197.html)
-* 1x [7 Pin JST-XH 2.5mm Angled Connector](https://www.banggood.com/25-Sets-6-7-8-9-10-pin-Right-Angle-JST-XH-2_5mm-Male-Female-Lipo-Balance-Connector-p-1160584.html)
-* 3x [USB Module](https://www.banggood.com/3pcs-DC-Buck-Module-12V24V-to-QC3_0-Single-USB-Mobile-Charging-Board-p-1338057.html)
+* 1x [7 Pin JST-XH 2.5mm Angled Connector](https://www.banggood.com/25-Sets-6-7-8-9-10-pin-Right-Angle-JST-XH-2_5mm-Male-Female-Lipo-Balance-Connector-p-1160584.html?p=3R26141006882201412N)
+* 3x [USB Module](https://www.banggood.com/3pcs-DC-Buck-Module-12V24V-to-QC3_0-Single-USB-Mobile-Charging-Board-p-1338057.html?p=3R26141006882201412N)
+* 3x [2 Pin RM2.54 Pin Header](https://www.banggood.com/10-Pcs-40-Pin-2_54mm-Single-Row-Male-Pin-Header-Strip-For-Arduino-p-918427.htm?p=3R26141006882201412Nl)
+* 3x [Jumper](https://www.banggood.com/100pcs-2_54mm-Jumper-Cap-Short-Circuit-Cap-Pin-Connection-Block-p-1212414.html?p=3R26141006882201412N)
+
 
 (some links are affiliate links)
 
