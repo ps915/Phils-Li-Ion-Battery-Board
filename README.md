@@ -1,4 +1,11 @@
 # Phils-Li-Ion-Battery-Board
+
+I created this PCB for my personal project of a very big custom Li-Ion Battery which i use to charge my FPV Racing Drones Batteries on the flying field. With this PCB, you can build your own LiIon/LiPo Battery with up to 6 cells. You dont need to worry about the balancing wires, they are intregated in the PCB.
+
+An ISDT BC-8S monitors all your cells and alerts you if there is any problem.
+
+In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly turned on/off via a pin header jumper.
+
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG)
 
 # Features
@@ -20,6 +27,7 @@
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
 
 * 1x PCB (how to order, see below)
+* 1x [ISDT BC-8S](https://www.banggood.com/de/ISDT-BC-8S-Battery-Checker-with-Two-85dB-Buzzer-for-LiPo-LiHv-LiFe-LiIon-Batteries-p-1128253.html?p=3R26141006882201412N)
 * 6x XT60 Male [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
 * 2X XT60 Female [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
 * 1x [9 Pin Header Female 90° Angled ](https://www.aliexpress.com/item/10Pieces-2P-40P-Header-Right-Angle-Female-Single-Row-Socket-Connector-2-54mm-Pitch-Wholesale/32885601197.html)
