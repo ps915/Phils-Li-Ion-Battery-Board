@@ -54,7 +54,7 @@ If you want to use less than 6 cells, just bride the unused XT60 ports.
 
 
 # Blog post about the project
-* english
+* english (soon)
 * [deutsch](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Ordering the PCB from shared project
