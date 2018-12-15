@@ -1,5 +1,5 @@
 # Phils-Li-Ion-Battery-Board
-
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG)
 
 # Features
 * connect up to 6 cells
@@ -16,6 +16,8 @@
 * i did not tested this PCB
 
 # What do you need
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
+
 * 1x PCB
 * 6x XT60 Male [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
 * 2X XT60 Female [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
@@ -25,13 +27,19 @@
 * 3x [2 Pin RM2.54 Pin Header](https://www.banggood.com/10-Pcs-40-Pin-2_54mm-Single-Row-Male-Pin-Header-Strip-For-Arduino-p-918427.htm?p=3R26141006882201412Nl)
 * 3x [Jumper](https://www.banggood.com/100pcs-2_54mm-Jumper-Cap-Short-Circuit-Cap-Pin-Connection-Block-p-1212414.html?p=3R26141006882201412N)
 
-
 (some links are affiliate links)
+
+# Important Notice
+I removed the solder mask in order to apply solder to the traces on the back. I highly recommend to add a good amount of solder to all traces on the back to increase the trace height. With this method, the Traces can withand high amp flow. 
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG)
+
+# Shematics
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG)
 
 
 # Blog post about the project
 * english
-* deutsch
+* [deutsch](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Ordering the PCB from shared project
 order my shared project here
