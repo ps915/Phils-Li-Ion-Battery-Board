@@ -9,7 +9,7 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG)
 
 # Features
-* connect up to 6 cells
+* connect up to 6 1S cells via Xt60
 * XT60 Plugs (direct or via cable)
 * 3X 24W USB QC3.O USB Stepdown
 * Balancer Port
@@ -41,6 +41,10 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 # Important Notice
 I removed the solder mask in order to apply solder to the traces on the back. I highly recommend to add a good amount of solder to all traces on the back to increase the trace height. With this method, the Traces can withand high amp flow. 
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG)
+
+I highly suggest to charge big parallel packs with individual 1S Chargers. Charging big batteries via the Balancer Port may take a while. 
+
+If you want to use less than 6 cells, just bride the unused XT60 ports.
 
 # Shematics
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG)
