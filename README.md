@@ -58,7 +58,8 @@ If you want to use less than 6 cells, just bride the unused XT60 ports.
 * [deutsch](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Ordering the PCB from shared project
-order my shared project here
+if you want to save some money, i have a coupon for you. Just order my shared project from here
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/save.PNG" width="300">]
 
 # Ordering the PCB
 you can order the PCB from china:
