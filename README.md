@@ -8,6 +8,7 @@
 * Balancer Port
 * Port for ISDT BC-8S
 * open copper trace on back - fill with solder tin to increase trace height
+* 99mm x 80mm Board (all dimensions [here](https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/battery_board_V1.0_dimensions.PNG))
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Phils-Li-Ion-Battery-Board/releases) 
@@ -18,7 +19,7 @@
 # What do you need
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
 
-* 1x PCB
+* 1x PCB (how to order, see below)
 * 6x XT60 Male [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
 * 2X XT60 Female [without cable](https://www.banggood.com/10X-XT60-Male-Female-Bullet-Connectors-Plugs-For-RC-Battery-p-958017.html?p=3R26141006882201412N) / [with cable](https://www.banggood.com/AMASS-XT60-Plug-Connector-14AWG-10cm-Power-Cable-Wire-p-1060098.html?p=3R26141006882201412N)
 * 1x [9 Pin Header Female 90° Angled ](https://www.aliexpress.com/item/10Pieces-2P-40P-Header-Right-Angle-Female-Single-Row-Socket-Connector-2-54mm-Pitch-Wholesale/32885601197.html)
