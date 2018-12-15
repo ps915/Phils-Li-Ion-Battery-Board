@@ -80,7 +80,7 @@ you can order the PCB from china:
 * Finished Copper:	1 oz Cu	
 4. choose shipping
 5. add to cart
-6. Upload Gerber File (.zip) by clicking  "+Add Gerber File"
+6. Upload Gerber File (battery_board_v1.1.zip) by clicking  "+Add Gerber File"
 7. click "Submit Order" and pay!
 8. share unused PCBs with the community! =)
 
