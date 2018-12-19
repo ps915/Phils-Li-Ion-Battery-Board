@@ -26,6 +26,8 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 * inital release
 * i did not tested this PCB
 
+ORDER ON YOUR OWN RISK. AS SOON AS I GET THE PCB FROM CHINA, I WILL DELETE THIS MESSAGE WHEN EVERYTHING IS FINE
+
 # What do you need
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
 
@@ -62,6 +64,8 @@ if you want to save some money, i have a coupon for you. Just order my shared pr
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/save.PNG" width="300">]
 
 # Ordering the PCB
+ORDER ON YOUR OWN RISK. AS SOON AS I GET THE PCB FROM CHINA, I WILL DELETE THIS MESSAGE WHEN EVERYTHING IS FINE
+
 you can order the PCB from china:
 1. Go to "PCB Instant Quote" [www.pcbway.com](https://www.pcbway.com/member/order/orderonline.aspx)
 2. Upload gerber file 
