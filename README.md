@@ -8,8 +8,7 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG)
 
-[<img src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/diy_lithium_ion_battery_18650_cells-8.jpg" width="800">](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
-
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/diy_lithium_ion_battery_18650_cells-8.jpg" width="800">](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Features
 * connect up to 6 1S cells via Xt60
@@ -22,11 +21,8 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Phils-Li-Ion-Battery-Board/releases) 
-### 14.12.2018 - v1.1 beta released [DOWNLOAD](xxx)
+### 14.12.2018 - v1.1 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/battery_board_v1.1.zip)
 * inital release
-* i did not tested this PCB
-
-ORDER ON YOUR OWN RISK. AS SOON AS I GET THE PCB FROM CHINA, I WILL DELETE THIS MESSAGE WHEN EVERYTHING IS FINE
 
 # What do you need
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
@@ -41,7 +37,7 @@ ORDER ON YOUR OWN RISK. AS SOON AS I GET THE PCB FROM CHINA, I WILL DELETE THIS 
 * 3x [2 Pin RM2.54 Pin Header](https://www.banggood.com/10-Pcs-40-Pin-2_54mm-Single-Row-Male-Pin-Header-Strip-For-Arduino-p-918427.htm?p=3R26141006882201412Nl)
 * 3x [Jumper](https://www.banggood.com/100pcs-2_54mm-Jumper-Cap-Short-Circuit-Cap-Pin-Connection-Block-p-1212414.html?p=3R26141006882201412N)
 
-(some links are affiliate links)
+(some links above are affiliate links / Werbung)
 
 # Important Notice
 I removed the solder mask in order to apply solder to the traces on the back. I highly recommend to add a good amount of solder to all traces on the back to increase the trace height. With this method, the Traces can withand high amp flow. 
@@ -92,6 +88,10 @@ you can order the PCB from china:
 7. click "Submit Order" and pay!
 8. share unused PCBs with the community! =)
 
-Photos Prototype:
 
+
+
+
+
+Photos Prototype:
 <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-2.jpg"><img class="alignnone size-medium wp-image-9172" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-2-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-1.jpg"><img class="alignnone size-medium wp-image-9171" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-1-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-3.jpg"><img class="alignnone size-medium wp-image-9173" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-3-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-4.jpg"><img class="alignnone size-medium wp-image-9174" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-4-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-5.jpg"><img class="alignnone size-medium wp-image-9175" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-5-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-6.jpg"><img class="alignnone size-medium wp-image-9176" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-6-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-7.jpg"><img class="alignnone size-medium wp-image-9177" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-7-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-8.jpg"><img class="alignnone size-medium wp-image-9178" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-8-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-9.jpg"><img class="alignnone size-medium wp-image-9179" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-9-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-10.jpg"><img class="alignnone size-medium wp-image-9180" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-10-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-11.jpg"><img class="alignnone size-medium wp-image-9181" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-11-300x225.jpg" alt="" width="300" height="225" /></a> <a href="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-12.jpg"><img class="alignnone size-medium wp-image-9182" src="https://blog.seidel-philipp.de/wp-content/uploads/2017/09/pcbway_prototype_liion_board-12-300x225.jpg" alt="" width="300" height="225" /></a>
