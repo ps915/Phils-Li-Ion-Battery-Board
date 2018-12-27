@@ -13,7 +13,7 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 [<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/diy_lithium_ion_battery_18650_cells-8.jpg" width="800">](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Features
-* connect up to 6 1S cells via Xt60
+* connect up to 6 1S cells via XT60
 * XT60 Plugs (direct or via cable)
 * 3X 24W USB QC3.O USB Stepdown
 * Balancer Port
