@@ -60,6 +60,12 @@ If you want to use less than 6 cells, just bride the unused XT60 ports.
 # Ordering the PCB from shared project
 here you can order my shared project: [https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html](https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html)
 
+1. Click on "Add to Cart"
+2. Set Quantity to "10"
+3. Solder Mask: select you favourite color
+4. Finished Copper: 1oz
+5. Silkscreen: select you favourite color
+
 # Ordering the PCB via gerber file download
 
 you can order the PCB from china when you downloaded my gerber file from GitHub:
