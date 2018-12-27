@@ -69,7 +69,7 @@ here you can order my shared project: [https://www.pcbway.com/project/shareproje
 # Ordering the PCB via gerber file download
 
 you can order the PCB from china when you downloaded my gerber file from GitHub:
-1. Go to "PCB Instant Quote" [www.pcbway.com](https://www.pcbway.com/member/order/orderonline.aspx)
+1. Go to "PCB Instant Quote" [www.pcbway.com](https://www.pcbway.com/setinvite.aspx?inviteid=108086)
 2. Upload gerber file 
 3. verify "PCB Specification Selection"
 * Board type: Single pieces
