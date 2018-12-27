@@ -60,9 +60,9 @@ If you want to use less than 6 cells, just bride the unused XT60 ports.
 # Ordering the PCB from shared project
 here you can order my shared project: [https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html](https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html)
 
-# Ordering the PCB
+# Ordering the PCB via gerber file download
 
-you can order the PCB from china:
+you can order the PCB from china when you downloaded my gerber file from GitHub:
 1. Go to "PCB Instant Quote" [www.pcbway.com](https://www.pcbway.com/member/order/orderonline.aspx)
 2. Upload gerber file 
 3. verify "PCB Specification Selection"
