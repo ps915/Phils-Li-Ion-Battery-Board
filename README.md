@@ -2,6 +2,8 @@
 
 I created this PCB for my personal project of a very big custom Li-Ion Battery which i use to charge my FPV Racing Drones Batteries on the flying field. With this PCB, you can build your own LiIon/LiPo Battery with up to 6 cells. You dont need to worry about the balancing wires, they are intregated in the PCB.
 
+<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(1).jpg" width="800">
+
 An ISDT BC-8S monitors all your cells and alerts you if there is any problem.
 
 In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly turned on/off via a pin header jumper.
@@ -88,7 +90,9 @@ you can order the PCB from china:
 7. click "Submit Order" and pay!
 8. share unused PCBs with the community! =)
 
+Photos V1.1:
 
+<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(1).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(2).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(3).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(4).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(5).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(6).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(7).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(8).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(9).jpg" width="300"> <img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(10).jpg" width="300">
 
 Photos Prototype:
 
