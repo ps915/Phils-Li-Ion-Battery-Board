@@ -21,6 +21,11 @@ In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly 
 * open copper trace on back - fill with solder tin to increase trace height
 * 99mm x 80mm Board (all dimensions [here](https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/battery_board_V1.0_dimensions.PNG))
 
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qvAzB0jTuBU/0.jpg)](https://www.youtube.com/watch?v=qvAzB0jTuBU)
+
+https://www.youtube.com/watch?v=qvAzB0jTuBU
+
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Phils-Li-Ion-Battery-Board/releases) 
 ### 14.12.2018 - v1.1 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/battery_board_v1.1.zip)
