@@ -63,7 +63,7 @@ If you want to use less than 6 cells, just bride the unused XT60 ports.
 * [deutsch](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Ordering the PCB from shared project
-here you can order my shared project: [https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html](https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html)
+here you can order my shared project (v1.1): [https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html](https://www.pcbway.com/project/shareproject/Phils_LiIon_Battery_Board_v1_1.html)
 
 1. Click on "Add to Cart"
 2. Set Quantity to "10"
@@ -73,7 +73,7 @@ here you can order my shared project: [https://www.pcbway.com/project/shareproje
 
 # Ordering the PCB via gerber file download
 
-you can order the PCB from china when you downloaded my gerber file from GitHub:
+you can order the latest PCB (v1.2) from china when you downloaded my gerber file from GitHub:
 1. Go to "PCB Instant Quote" [www.pcbway.com](https://www.pcbway.com/setinvite.aspx?inviteid=108086)
 2. Upload gerber file 
 3. verify "PCB Specification Selection"
@@ -95,7 +95,7 @@ you can order the PCB from china when you downloaded my gerber file from GitHub:
 * Finished Copper:	1 oz Cu	
 4. choose shipping
 5. add to cart
-6. Upload Gerber File (battery_board_v1.1.zip) by clicking  "+Add Gerber File"
+6. Upload Gerber File (battery_board_v1.2.zip) by clicking  "+Add Gerber File"
 7. click "Submit Order" and pay!
 8. share unused PCBs with the community! =)
 
