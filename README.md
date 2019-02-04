@@ -2,15 +2,15 @@
 
 I created this PCB for my personal project of a very big custom Li-Ion Battery which i use to charge my FPV Racing Drones Batteries on the flying field. With this PCB, you can build your own LiIon/LiPo Battery with up to 6 cells. You dont need to worry about the balancing wires, they are intregated in the PCB.
 
-<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board%20(1).jpg" width="800">
+<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/phils_liion_battery_board%20(1).jpg" width="800">
 
 An ISDT BC-8S monitors all your cells and alerts you if there is any problem.
 
 In adition, i also added 3 USB QC3.O USB Charging Ports, which can be seperatly turned on/off via a pin header jumper.
 
-[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG)
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/battery_board_V1.0_top.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_top.PNG)
 
-[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/diy_lithium_ion_battery_18650_cells-8.jpg" width="800">](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
+[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/diy_lithium_ion_battery_18650_cells-8.jpg?raw=true" width="800">](https://blog.seidel-philipp.de/xxl-powerhouse-diy-feldakku-aus-18650-zellen/)
 
 # Features
 * connect up to 6 1S cells via XT60
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=qvAzB0jTuBU
 * inital release
 
 # What do you need
-[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/battery_board_v1.jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_v1.jpg)
 
 * 1x PCB (how to order, see below)
 * 1x [ISDT BC-8S](https://www.banggood.com/de/ISDT-BC-8S-Battery-Checker-with-Two-85dB-Buzzer-for-LiPo-LiHv-LiFe-LiIon-Batteries-p-1128253.html?p=3R26141006882201412N)
@@ -48,14 +48,14 @@ https://www.youtube.com/watch?v=qvAzB0jTuBU
 
 # Important Notice
 I removed the solder mask in order to apply solder to the traces on the back. I highly recommend to add a good amount of solder to all traces on the back to increase the trace height. With this method, the Traces can withand high amp flow. 
-[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG)
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/battery_board_V1.0_back.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_back.PNG)
 
 I highly suggest to charge big parallel packs with individual 1S Chargers. Charging big batteries via the Balancer Port may take a while. 
 
 If you want to use less than 6 cells, just bride the unused XT60 ports.
 
 # Shematics
-[<img src="https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG)
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/battery_board_V1.0_shematics.PNG" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/battery_board_V1.0_shematics.PNG)
 
 
 # Blog post about the project
