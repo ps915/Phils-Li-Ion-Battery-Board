@@ -74,7 +74,7 @@ If you want to use less than 6 cells, just bride the unused XT60 ports.
 [<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/phils_liion_battery_board_v1.3%20(3).jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board_v1.3%20(3).jpg)
 
 
-### 28.12.2018 - v1.2 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/raw/master/battery_board_v1.2.zip)
+### 28.12.2018 - v1.2 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/raw/master/battery_board_v1.2.rar)
 * added third pin where the jumper can be put when USB Module is powered off
 ### 14.12.2018 - v1.1 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/raw/master/battery_board_v1.1.zip)
 * inital release
