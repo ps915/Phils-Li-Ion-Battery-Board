@@ -31,6 +31,24 @@ https://www.youtube.com/watch?v=qvAzB0jTuBU
 
 # Changelog
 ### [ALL RELEASES](https://github.com/ps915/Phils-Li-Ion-Battery-Board/releases) 
+### 14.05.2020 - v1.3 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/battery_board_v1.3.zip)
+* complete redesign for use of ISDT BG-8S
+* supports 8S
+* supports ISDT BG-8S
+* angled XT60 sockets
+* balance port
+* 3 in/out ports
+* removed USB charger due to limited space
+
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/phils_liion_battery_board_v1.3%20(1).jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board_v1.3%20(1).jpg)
+
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/phils_liion_battery_board_v1.3%20(2).jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board_v1.3%20(2).jpg)
+
+[<img src="https://raw.githubusercontent.com/ps915/Phils-Li-Ion-Battery-Board/master/photos/phils_liion_battery_board_v1.3%20(3).jpg" width="800">](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/photos/phils_liion_battery_board_v1.3%20(3).jpg)
+
+
+### 28.12.2018 - v1.2 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/battery_board_v1.2.zip)
+* added third pin where the jumper can be put when USB Module is powered off
 ### 14.12.2018 - v1.1 released [DOWNLOAD](https://github.com/ps915/Phils-Li-Ion-Battery-Board/blob/master/battery_board_v1.1.zip)
 * inital release
 
